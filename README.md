@@ -1,8 +1,8 @@
 ## Hi there 👋
 🫡 My name is **Samriddha**  
-🐍 I like Python and Django  
+🐍 I like Backend  
 ⚡ Working with **Django, DRF, and FastAPI**  
-🌱 Want to learn **Gen-AI** or **Web3** in the future  
+🌱 Learning Go  
 
 <!--
 **Samriddha9619/Samriddha9619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
