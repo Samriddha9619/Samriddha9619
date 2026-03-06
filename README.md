@@ -1,9 +1,14 @@
-## Hi there 👋
-🫡 My name is **Samriddha**  
-🐍 I like Backend  
-⚡ Working with **Django, DRF, and FastAPI**  
-🌱 Learning Go  
+Hi there 👋, I'm Samriddha
 
+💻 A Btech student and backend developer focusing on database internals and networking.
+
+⚡ Currently building with **Go** and exploring distributed systems (Raft consensus, LSM Trees).
+
+🐍 Have worked with **Python** (Django, FastAPI).
+
+🌱 Like learning from Open source.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samriddha9619/) or via email at sumitkumartripathi0@gmail.com
 <!--
 **Samriddha9619/Samriddha9619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
