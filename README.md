@@ -8,7 +8,7 @@ Hi there 👋, I'm Samriddha
 
 🌱 Like learning from Open source.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samriddha9619/) or via email at sumitkumartripathi0@gmail.com
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samriddh9619/) or via email at sumitkumartripathi0@gmail.com
 <!--
 **Samriddha9619/Samriddha9619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
